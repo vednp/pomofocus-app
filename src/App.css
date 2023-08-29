@@ -1,0 +1,47 @@
+
+
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.timerAction {
+  margin-bottom: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.timerDuration {
+
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  gap: 10px;
+}
+
+.breakDuration {
+  justify-content: space-evenly;
+  /* padding: 1rem; */
+  display: flex;
+}
+
+.title{
+  font-family: 'poppins', sans-serif;
+  position: absolute;
+  top:1rem;
+  left: 40%;
+}
+
+.timerDisplay{
+  
+  color: wheat;
+  height: 5rem;
+  font-size: 4rem;
+  padding: 0.5rem;
+  margin-bottom: 5rem;
+}
