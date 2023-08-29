@@ -78,4 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 Give your productivity a boost with PomoFocus! Manage your tasks, stay focused, and accomplish more in less time. If you encounter any issues or have suggestions, feel free to [create an issue](https://github.com/vednp/pomofocus-app/issues) or contribute to the project. Happy focusing!
 ```
 
-Please copy and paste this Markdown content into your repository's `README.md` file. Adjust any URLs or paths as needed.
